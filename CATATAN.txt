@@ -1,0 +1,6 @@
+1. 5-11-2020
+- first initiate minimal viable product
+- using file in config.conf to save configs
+- there is still bug exist, when clicking button a and then click button b, the button b is not selected, so we have to click b once more. still searching but still usable
+- release V1
+
