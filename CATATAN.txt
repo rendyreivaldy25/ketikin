@@ -9,3 +9,5 @@
 - ganti config buat contoh
 
 - benerin gif yang salah URL
+
+- add bat file buat run jar nya tanpa command prompt
