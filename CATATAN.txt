@@ -8,4 +8,4 @@
 - bagusin README.md
 - ganti config buat contoh
 
-- 
+- benerin gif yang salah URL

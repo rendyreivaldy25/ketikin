@@ -11,7 +11,7 @@ Aplikasi ini adalah tools kecil yang saya gunakan untuk membantu dalam input men
 - Malas
 
 ## Cara Kerjanya?
-![me](https://github.com/rendyreivaldy25/ketikin/gifketikin.gif)
+![me](https://github.com/rendyreivaldy25/ketikin/blob/master/gifketikin.gif)
 
 ## Problem
 Masih banyak problem di aplikasi ini apalagi di versi awal ini. Tapi agar bisa berguna bagi saya secara khusus dan untuk Anda sekalian secara umum, saya akan terus berusaha update
